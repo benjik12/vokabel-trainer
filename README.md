@@ -17,6 +17,10 @@ das programm ist selbst erklärend und benutzerfreundlich
 
 # Erlebnis 
 es ist sehr gut alles funktioniert und ich habe es auch geschaft damit zu lernen 
-es ist halt nur ungewöhnt wenn man vom buch zum pc wechselt 
+es ist halt nur ungewöhnt wenn man vom buch zum pc wechselt
+
+
+# Entwickler 
+Benjik12,
 
 
