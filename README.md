@@ -27,7 +27,7 @@ Also einnfach nicht beachten und trotztem genießen
 
 # Kompilation
 Das Programm habe ich mit dem Programm auto-py-to-exe zu einer .Exe gemacht.
-Wer das auch machen will hier >>> https://www.youtube.com/watch?v=xJAM8_Lx5mY&t=8s
+Wer das auch machen will hier eine Anleitung >>> https://www.youtube.com/watch?v=xJAM8_Lx5mY&t=8s
 
 # Entwickler
 Entwickelt von Benjik12
