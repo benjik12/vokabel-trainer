@@ -1,26 +1,32 @@
-# vokabel-trainer
 
 
 
-vielen dank an alle die das programm benutzen❤❤❤❤❤❤❤
 
 
-# Installation
-sie installieren die zip datei unter release und müssen sie wieder zu einen normalen ordner machen
-sie müssen nur noch die vokabel.exe öffnen (wichtig!!!! die anderen dateien die es dort gibt finger weg)
 
 
-# Programm
-Das programm kann noch ein paar fehler haben (werden noch alle gepatcht)
-das programm ist selbst erklärend und benutzerfreundlich
+Du:
 
 
-# Erlebnis 
-es ist sehr gut alles funktioniert und ich habe es auch geschaft damit zu lernen 
-es ist halt nur ungewöhnt wenn man vom buch zum pc wechselt
 
 
-# Entwickler 
-Benjik12,
+Vokabel-Trainer
+Vielen Dank an alle, die dieses Programm verwenden!
+
+Installation
+Laden Sie die ZIP-Datei unter Releases herunter.
+Entpacken Sie die ZIP-Datei in einen Ordner.
+Öffnen Sie die vokabel.exe, um das Programm zu starten.
+Wichtig: Bitte ändern oder löschen Sie keine der anderen Dateien im Ordner, da dies die Funktionalität des Programms beeinträchtigen kann.
+
+Programm
+Das Programm ist benutzerfreundlich und weitgehend selbsterklärend.
+Bitte beachten Sie, dass es noch kleinere Fehler geben kann, die jedoch kontinuierlich behoben werden.
+
+Erfahrung
+Das Programm ist eine großartige Unterstützung beim Lernen von Vokabeln. Der Wechsel vom Buch zum PC kann anfangs ungewohnt sein, funktioniert jedoch sehr gut.
+
+Entwickler
+Entwickelt von Benjik12.
 
 
