@@ -1,15 +1,5 @@
 
 
-
-
-
-
-
-
-
-
-
-
 # Vokabel-Trainer
 Vielen Dank an alle, die dieses Programm verwenden!
 
